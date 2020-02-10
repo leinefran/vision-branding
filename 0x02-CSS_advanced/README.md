@@ -1,6 +1,5 @@
 # 0x02. Advanced CSS
-
-In this project, you will analyze this website https://dev-tools.hbtn.info/.
+Specializations - Web Stack programming ― Front-end
 
 ## Learning Objectives
 
@@ -28,13 +27,17 @@ In this project, you will analyze this website https://dev-tools.hbtn.info/.
 
 
 ## End goal of the project
-
-
  
+ ![End goal](https://github.com/leinefran/holbertonschool-web_front_end/blob/master/0x02-CSS_advanced/more-images/end-goal.png)
 
 ---
 File|Task
 ---|---
+end-goal.png
+favicon.jpg
+index.html
+logo-black.png
+logo-white.png
 
 
 ## Author
