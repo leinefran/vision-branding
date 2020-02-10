@@ -449,11 +449,11 @@ a:active {
   font-weight: var(--font-weight-bold);
 }
 
-.card-category, .section-tagline {
-  color: var(--color-primary);
-}
-
 .container {
   width: 960px;
   margin: auto; /* evenly distribute the margins on both the left and and right side */
+}
+
+.card-category, .section-tagline {
+  color: var(--color-primary);
 }
