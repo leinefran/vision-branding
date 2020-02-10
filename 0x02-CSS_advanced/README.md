@@ -38,6 +38,7 @@ favicon.jpg
 index.html
 logo-black.png
 logo-white.png
+styles.css
 
 
 ## Author
