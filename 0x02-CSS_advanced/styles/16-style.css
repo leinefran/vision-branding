@@ -443,6 +443,10 @@ a:active {
   color: var(--section-title-color);
 }
 
+.card-category, .section-tagline {
+  color: var(--color-primary);
+}
+
 .section-tagline {
   font-family: var(--font-family-title);
   text-transform: var(--section-tagline-transform);
@@ -451,9 +455,8 @@ a:active {
 
 .container {
   width: 960px;
-  margin: auto; /* evenly distribute the margins on both the left and and right side */
+  margin-right: auto; /* evenly distribute the margins the right side */
+  margin-left: auto; /* evenly distribute the margins the left side */
 }
 
-.card-category, .section-tagline {
-  color: var(--color-primary);
-}
+
