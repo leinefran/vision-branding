@@ -49,6 +49,7 @@ h6 {
 }
 
 a:links {
+  color: var(--text-color);
   text-decoration: none;
 }
 
