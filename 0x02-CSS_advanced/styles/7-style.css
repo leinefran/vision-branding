@@ -1,5 +1,4 @@
-/* define custom font-weight properties in the root element */
-/* set the font-weight for the body and heading selectors */
+/* Added: a new font to the font-family-base and font-family-title variables */
 
 html {
     scroll-behavior: smooth;
