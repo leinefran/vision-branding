@@ -35,14 +35,14 @@ a {
   text-align: var(--section-header-align);
 }
 
-.card-category, .section-tagline {
-  color: var(--color-primary);
-}
-
 .section-tagline {
   font-family: font-family-title;
   text-transform: var(--section-tagline-transform);
   font-weight: var(--font-weight-bold);
+}
+
+.card-category, .section-tagline {
+  color: var(--color-primary);
 }
 
 :root {
