@@ -1,4 +1,4 @@
-/* Added: a new font to the font-family-base and font-family-title variables */
+/* Added: custom line-heigth properties */
 
 html {
     scroll-behavior: smooth;
@@ -47,7 +47,7 @@ a {
   --font-size-xx-large: 4.8rem;
   --font-weight-regular: 400;
   --font-weight-bold: 700;
-  --line-height-small: 1.2rem;
-  --line-height-base: 1.5rem;
-  --line-height-big: 1.8rem;
+  --line-height-small: 1.2;
+  --line-height-base: 1.5;
+  --line-height-big: 1.8;
 }
