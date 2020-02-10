@@ -382,7 +382,7 @@ template {
 }
 
 /* Sets a universal size boxing rule */
-* {
+*, *:before, *:after {
   box-sizing: border-box;
 }
 
