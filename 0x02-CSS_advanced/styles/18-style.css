@@ -509,13 +509,13 @@ a:active {
 .nav .nav-link {
   display: block;
   padding-top: 0.5rem;
-  padding-bottom: 0.5%;
+  padding-bottom: 0.5rem;
   padding-right: 1rem;
   padding-left: 1rem;
 }
 
 .nav .nav-link:hover {
-  color: nav-item-link-hover;
+  color: var(--nav-item-link-hover);
 }
 
 .footer {
