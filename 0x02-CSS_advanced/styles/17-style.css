@@ -437,7 +437,7 @@ a:active {
   display: none;
 }
 
-.section-padding {
+.section {
   padding: var(--section-padding);
 }
 
